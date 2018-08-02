@@ -1,0 +1,11 @@
+.imageBoxesStyle {
+	position: relative;
+	border: 1px solid #777;
+	font-family: Roboto;
+	margin: 60px 0;
+	padding: 10px
+}
+.titleStyle{
+	font-family: great Vibes !important;
+	font-weight: bold;
+}
